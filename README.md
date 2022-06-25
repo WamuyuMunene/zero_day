@@ -1,1 +1,1 @@
-"using local comp for git" 
+"vagrant" 
